@@ -1,5 +1,10 @@
 I'm Karl Legson! Web Developer Intern at BizzNEST 
 
+HTML/CSS | Javascript | Python | SQL
+
+## Currently learning.. 
+- 🤔 React.js
+
 
 <!--
 **karllegson/karllegson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
