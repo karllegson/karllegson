@@ -37,14 +37,17 @@ I’m a **developer with a background in IT, web development, and business syste
 
 ---
 
-### 📫 Let’s Connect  
+### 📫 Let’s Connect
 
-<a href="https://www.linkedin.com/in/karl-legson">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>  
+<p>
+  <a href="https://www.linkedin.com/in/karl-legson" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-<a href="https://karllegson.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website">
-</a>  
+<p>
+  <a href="https://karllegson.com" target="_blank">
+    <img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+</p>
 
----
