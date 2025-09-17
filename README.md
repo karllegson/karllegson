@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Karl%20Legson&fontSize=45&fontColor=00d9ff&animation=fadeIn&fontAlignY=38)
+![Banner](./Banner.png)
 
 I’m a **developer with a background in IT, web development, and business systems**. I enjoy building applications and tools that improve efficiency and solve real-world problems.  
 
