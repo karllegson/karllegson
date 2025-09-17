@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=200&section=header&text=Karl%20Legson%20✈️&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
-
-# 👋 Hi, I’m Karl Legson  
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Karl%20Legson&fontSize=45&fontColor=00d9ff&animation=fadeIn&fontAlignY=38)
 
 I’m a **developer with a background in IT, web development, and business systems**. I enjoy building applications and tools that improve efficiency and solve real-world problems.  
 
@@ -10,7 +8,7 @@ I’m a **developer with a background in IT, web development, and business syste
 - 🎓 B.S. in **Business Administration, Computer Information Systems**  
 - 💻 **Web development experience** in React, TypeScript, JavaScript, HTML, and CSS, with back-end integration in Python, SQL, and Firebase  
 - 📊 **SEO and data experience**, including creating my own app to streamline publishing workflows  
-- ✈️ Private Pilot License (2025) — bringing discipline and focus into everything I do  
+- ⚡ Passion for blending technology with business problem solving  
 
 ---
 
