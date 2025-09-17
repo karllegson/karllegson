@@ -1,22 +1,31 @@
-I'm Karl Legson! Web Developer Intern at BizzNEST 
+content = """# 👋 Hi, I’m Karl Legson  
 
-HTML/CSS | Javascript | Python | SQL
+I’m a **developer with a background in IT, web development, and business systems**. I enjoy building applications and tools that improve efficiency and solve real-world problems.  
 
-## Currently learning.. 
-- 🤔 React.js
+### 🚀 About Me  
+- 🎓 B.S. in **Business Administration, Computer Information Systems**  
+- 💻 **Web development experience** in React, TypeScript, JavaScript, HTML, and CSS, with back-end integration in Python, SQL, and Firebase  
+- 📊 **SEO and data experience**, including creating my own app to streamline publishing workflows  
 
+### 🛠️ Tech Stack  
+React • TypeScript • JavaScript • Python • SQL • Firebase • Git/GitHub • WordPress  
 
-<!--
-**karllegson/karllegson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently Exploring  
+- Application Development & Data Services  
+- Automating workflows with **n8n** and APIs  
+- Building personal projects that blend **tech + business problem solving**  
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats  
+![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karllegson&show_icons=true&theme=tokyonight)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karllegson&layout=compact&theme=tokyonight)  
+
+### 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/karl-legson)  
+- [Portfolio/Website](https://karllegson.com)  
+"""
+
+with open("/mnt/data/README.md", "w") as f:
+    f.write(content)
+
+"/mnt/data/README.md"
