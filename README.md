@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Karl%20Legson&fontSize=50&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=180&section=header&text=Karl%20Legson&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # 👋 Hi, I’m Karl Legson  
 
@@ -33,13 +33,19 @@ I’m a **developer with a background in IT, web development, and business syste
 ---
 
 ### 📊 GitHub Stats  
-![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karllegson&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karllegson&layout=compact&theme=radical)  
+![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karllegson&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karllegson&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karl-legson)  
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://karllegson.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/karl-legson">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://karllegson.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website">
+  </a>
+</p>
 
 ---
