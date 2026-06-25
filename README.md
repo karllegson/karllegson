@@ -19,10 +19,15 @@ From zero-to-one development to SEO strategy to go-to-market — I do the full s
 
 ---
 
-## 🏗️ What I'm Building
+## 🏗️ Current Projects
 
-### ⚡ [Vectorboard.io](https://vectorboard.io) — *Founder & Builder*
-A product I'm actively designing, building, and taking to market. Handles everything from architecture to positioning.
+| Project | Role | What I'm Doing |
+|---|---|---|
+| ⚡ **[Vectorboard.io](https://vectorboard.io)** | Founder & Builder | Building and launching a product end-to-end — architecture, design, and go-to-market |
+| 🎯 **[Legson Media](https://legsonmedia.com)** | Founder & Creative Director | Full-stack marketing agency — websites, SEO, content creation, and social media |
+| 🏗️ **[Elite Builders IX](https://elitebuildersco.com)** | Web Dev & Marketing Head | Website build, SEO strategy, and full marketing execution |
+| ✈️ **JC Air Academy** | Web Developer | Building and managing their full web presence from the ground up |
+| 🛠️ **HTML Studio Pro** | Creator & Web Developer | Internal SEO tool — built to streamline publishing and content workflows |
 
 ---
 
@@ -48,17 +53,27 @@ I'm a **product builder with a technical foundation and a business lens.**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Backend & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Tools & Platforms**
+**Infrastructure & Deployment**
 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**CMS & No-Code**
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Growth & Marketing**
@@ -66,15 +81,17 @@ I'm a **product builder with a technical foundation and a business lens.**
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7043?style=for-the-badge&logo=ahrefs&logoColor=white)
+![Semrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
 
 ---
 
 ## 🔭 Currently In Motion
 
-- 🚀 Launching and growing **[Vectorboard.io](https://vectorboard.io)**
+- 🚀 Launching **[Vectorboard.io](https://vectorboard.io)** — from product to market
+- 🎯 Running **Legson Media** — full-stack marketing across web, SEO, content & social
+- 🏗️ Leading web dev & marketing for **Elite Builders IX**
 - 🤖 Building automation pipelines with **n8n + APIs** to eliminate manual work
-- 📈 Scaling SEO systems that compound — not just rank
-- 👥 Leading a team and shaping product direction
+- 👥 Managing a team across multiple active projects simultaneously
 
 ---
 
